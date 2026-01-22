@@ -143,7 +143,7 @@ All code has been understood and verified by the author.
 
 ## GitHub Repository
 
-[https://github.com/[username]/GRS_PA01](https://github.com/[username]/GRS_PA01)
+ https://github.com/WiseShukla/GRS_Assignment1
 
 ---
 
