@@ -27,7 +27,7 @@ PhD25001_PA01/
 ├── PhD25001_Part_D_Memory_Plot.png # Memory utilization plot
 ├── PhD25001_Part_D_IO_Plot.png    # I/O activity plot
 ├── PhD25001_Part_D_Time_Plot.png  # Execution time plot
-├── PhD25001_PA01_Report.docx      # Comprehensive report
+├── PhD25001_Report.pdf      # Comprehensive report
 └── README.md                       # This file
 ```
 
